@@ -6,7 +6,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0000417/",
     "Files": [
       "0001.1001.Le.voyage.dans.la.lune.1902.720p.BluRay.2xRus.3xEng.Fre-Skazhutin.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "A Trip to the Moon",
+      "Year": "1902",
+      "Rated": "TV-G",
+      "Released": "04 Oct 1902",
+      "Runtime": "13 min",
+      "Genre": "Short, Action, Adventure",
+      "Director": "Georges Méliès",
+      "Writer": "Georges Méliès, Jules Verne, H.G. Wells",
+      "Actors": "Georges Méliès, Victor André, Bleuette Bernon",
+      "Plot": "A group of astronomers go on an expedition to the Moon.",
+      "Language": "French, English",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDlhNDIzYWMtMzJiOS00MjA3LTgyYjYtY2YxNmI0NWE1NWM2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "52,053",
+      "imdbID": "tt0000417",
+      "Type": "movie",
+      "DVD": "11 Mar 2008",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "2",
@@ -15,7 +51,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0000439/",
     "Files": [
       "0002.1001.The Great Train Robbery_1903.avi"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Great Train Robbery",
+      "Year": "1903",
+      "Rated": "TV-G",
+      "Released": "07 Dec 1903",
+      "Runtime": "11 min",
+      "Genre": "Short, Action, Adventure",
+      "Director": "Edwin S. Porter",
+      "Writer": "Scott Marble, Edwin S. Porter",
+      "Actors": "Gilbert M. 'Broncho Billy' Anderson, A.C. Abadie, George Barnes",
+      "Plot": "A group of bandits stage a brazen train hold-up, only to find a determined posse hot on their heels.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjZmNTUwY2ItMzZlNy00NWY0LWJjNTMtMGZiYzRiYWY2ZTFhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "19,905",
+      "imdbID": "tt0000439",
+      "Type": "movie",
+      "DVD": "17 Apr 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "3",
@@ -24,7 +96,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0004972/",
     "Files": [
       "0003.1001.The Birth of a Nation-rus.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Birth of a Nation",
+      "Year": "1915",
+      "Rated": "TV-PG",
+      "Released": "21 Mar 1915",
+      "Runtime": "195 min",
+      "Genre": "Drama, War",
+      "Director": "D.W. Griffith",
+      "Writer": "Thomas Dixon Jr., D.W. Griffith, Frank E. Woods",
+      "Actors": "Lillian Gish, Mae Marsh, Henry B. Walthall",
+      "Plot": "The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klu...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM4ZDhiYTQtYzExNC00YjVlLTg2YWYtYTk3NTAzMzcwNTExXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "25,386",
+      "imdbID": "tt0004972",
+      "Type": "movie",
+      "DVD": "16 Feb 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "4",
@@ -53,7 +161,43 @@
       "09 - The Poisoner.srt",
       "10 - The Terrible Wedding.avi",
       "10 - The Terrible Wedding.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Les vampires",
+      "Year": "1915",
+      "Rated": "Not Rated",
+      "Released": "23 Nov 1916",
+      "Runtime": "421 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Louis Feuillade",
+      "Writer": "Louis Feuillade",
+      "Actors": "Musidora, Édouard Mathé, Marcel Lévesque",
+      "Plot": "An intrepid reporter and his loyal friend battle a bizarre secret society of criminals known as The Vampires.",
+      "Language": "None, French, English",
+      "Country": "France",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTY3NDIzNl5BMl5BanBnXkFtZTgwNTIyODg5MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "5,113",
+      "imdbID": "tt0006206",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "5",
@@ -62,7 +206,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0006864/",
     "Files": [
       "0005.1001.Intolerance.1916.720p.HDTV.H.264.MPA2.0.ts"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Intolerance",
+      "Year": "1916",
+      "Rated": "Passed",
+      "Released": "15 Jun 1917",
+      "Runtime": "163 min",
+      "Genre": "Drama, History",
+      "Director": "D.W. Griffith",
+      "Writer": "Hettie Grey Baker, Tod Browning, D.W. Griffith",
+      "Actors": "Lillian Gish, Robert Harron, Mae Marsh",
+      "Plot": "The story of a poor young woman separated by prejudice from her husband and baby is interwoven with tales of intolerance from throughout history.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0YjA1ZjctOTFlZi00NWRiLWE2MTAtZDE1MWY1YTgzOTJjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "99/100"
+        }
+      ],
+      "Metascore": "99",
+      "imdbRating": "7.7",
+      "imdbVotes": "16,027",
+      "imdbID": "tt0006864",
+      "Type": "movie",
+      "DVD": "07 Dec 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "6",
@@ -72,7 +256,43 @@
     "Files": [
       "0006.1001.Broken Blossoms DW Griffith 1919.avi",
       "0006.1001.Broken Blossoms DW Griffith 1919.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Broken Blossoms",
+      "Year": "1919",
+      "Rated": "Not Rated",
+      "Released": "20 Oct 1919",
+      "Runtime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Thomas Burke, D.W. Griffith",
+      "Actors": "Lillian Gish, Richard Barthelmess, Donald Crisp",
+      "Plot": "A frail waif, abused by her brutal boxer father in London's seedy Limehouse District, is befriended by a sensitive Chinese immigrant with tragic consequences.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY0ODRmZDktMzM2MC00NThmLWEyMDMtODQzNWEyMjMxYTYzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "10,655",
+      "imdbID": "tt0009968",
+      "Type": "movie",
+      "DVD": "26 Apr 2005",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "7",
@@ -81,7 +301,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0011870/",
     "Files": [
       "0007.1001.Within.Our.Gates.1920.1080p.BluRay.x264.AAC-[YTS.MX].mp4"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Within Our Gates",
+      "Year": "1920",
+      "Rated": "Not Rated",
+      "Released": "12 Jan 1920",
+      "Runtime": "79 min",
+      "Genre": "Drama, Romance",
+      "Director": "Oscar Micheaux",
+      "Writer": "Oscar Micheaux",
+      "Actors": "Evelyn Preer, Flo Clements, James D. Ruffin",
+      "Plot": "Abandoned by her fiancé, an educated black woman with a shocking past dedicates herself to helping a near bankrupt school for impoverished black youths.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjcxMWFjNTgtNzAwOC00OTIwLWE1ZTAtOTI3YjI2YWZhODQxXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "3,323",
+      "imdbID": "tt0011870",
+      "Type": "movie",
+      "DVD": "28 Jun 2011",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "8",
@@ -90,7 +346,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0010323/",
     "Files": [
       "0008.1001.Das.Cabinet.des.Dr.Caligari.1920.720p.BluRay.x264.DTS.AC3-SbR.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Cabinet of Dr. Caligari",
+      "Year": "1920",
+      "Rated": "Not Rated",
+      "Released": "27 Feb 1920",
+      "Runtime": "67 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Robert Wiene",
+      "Writer": "Carl Mayer, Hans Janowitz",
+      "Actors": "Werner Krauss, Conrad Veidt, Friedrich Feher",
+      "Plot": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJiNGJiMTEtMGM3OC00ZWNlLTgwZTgtMzdhNTRiZjk5MTQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "66,079",
+      "imdbID": "tt0010323",
+      "Type": "movie",
+      "DVD": "16 Feb 1999",
+      "BoxOffice": "$8,811",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "9",
@@ -99,7 +391,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0011841/",
     "Files": [
       "0009.1001.Way.Down.East.1920.720p.BluRay.DTS.x264-HDCLUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Way Down East",
+      "Year": "1920",
+      "Rated": "Passed",
+      "Released": "03 Sep 1920",
+      "Runtime": "145 min",
+      "Genre": "Drama, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Lottie Blair Parker, William A. Brady, Joseph R. Grismer",
+      "Actors": "Lillian Gish, Richard Barthelmess, Mrs. David Landau",
+      "Plot": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5OTI3NTQ4NV5BMl5BanBnXkFtZTgwNDY3NTAwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "5,671",
+      "imdbID": "tt0011841",
+      "Type": "movie",
+      "DVD": "28 Sep 2004",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "10",
@@ -109,7 +437,43 @@
     "Files": [
       "0010.1001.voznica 1.46 [torrents.ru] by bm11.avi",
       "0010.1001.voznica 1.46 [torrents.ru] by bm11.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Phantom Carriage",
+      "Year": "1921",
+      "Rated": "Not Rated",
+      "Released": "04 Jun 1922",
+      "Runtime": "107 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Victor Sjöström",
+      "Writer": "Selma Lagerlöf, Victor Sjöström",
+      "Actors": "Victor Sjöström, Hilda Borgström, Tore Svennberg",
+      "Plot": "On New Year's Eve, the driver of a ghostly carriage forces a drunken man to reflect on his selfish, wasted life.",
+      "Language": "None, Swedish",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDJjMzU4N2MtZDkxNi00YmRkLThkZjgtYzRlNzNlYjExNzAwXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "13,146",
+      "imdbID": "tt0012364",
+      "Type": "movie",
+      "DVD": "31 Oct 2016",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "11",
@@ -118,7 +482,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0012532/",
     "Files": [
       "0011.1001.Orphans-of-the-Storm-v2.mp4"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Orphans of the Storm",
+      "Year": "1921",
+      "Rated": "Not Rated",
+      "Released": "15 Sep 1922",
+      "Runtime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODRjNjU4ZjQtZDUyZi00MDY4LWI5MTAtYTMyNTAxYWNjZjA3XkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "5,286",
+      "imdbID": "tt0012532",
+      "Type": "movie",
+      "DVD": "16 Feb 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "12",
@@ -128,7 +528,43 @@
     "Files": [
       "0012.1001.Foolish.Wives.1922.BDRip 2.18 by_LBS.avi",
       "0012.1001.Foolish.Wives.1922.BDRip 2.18 by_LBS.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Foolish Wives",
+      "Year": "1922",
+      "Rated": "Not Rated",
+      "Released": "11 Jan 1922",
+      "Runtime": "117 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Erich von Stroheim",
+      "Writer": "Erich von Stroheim, Marian Ainslee, Walter Anthony",
+      "Actors": "Rudolph Christians, Miss DuPont, Maude George",
+      "Plot": "A con artist masquerades as Russian nobility and attempts to seduce the wife of an American diplomat.",
+      "Language": "English, Latin, French",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDMzYTktZWE5OC00NmFlLWEzNmQtY2U0MTFmZDA1MWVjXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "3,834",
+      "imdbID": "tt0013140",
+      "Type": "movie",
+      "DVD": "19 Sep 2000",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "13",
@@ -139,7 +575,43 @@
       "0013.1001.Nosferatu.eine.Symphonie.des.Grauens.1922.BDRip by LBS.avi",
       "0013.1001.Nosferatu.eine.Symphonie.des.Grauens.1922.BDRip by LBS_Rus.srt",
       "0013.1001.Nosferatu.eine.Symphonie.des.Grauens .1922.BDRip by LBS_Eng.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Nosferatu",
+      "Year": "1922",
+      "Rated": "Not Rated",
+      "Released": "18 May 1922",
+      "Runtime": "94 min",
+      "Genre": "Fantasy, Horror",
+      "Director": "F.W. Murnau",
+      "Writer": "Henrik Galeen, Bram Stoker",
+      "Actors": "Max Schreck, Alexander Granach, Gustav von Wangenheim",
+      "Plot": "Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.",
+      "Language": "German, English",
+      "Country": "Germany",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRkZGEwMTMtZjhmMC00YWNhLWFjZjAtNzBiZjU0ODRjMjE0XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "99,939",
+      "imdbID": "tt0013442",
+      "Type": "movie",
+      "DVD": "02 Jan 2001",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "14",
@@ -155,7 +627,43 @@
       "0014.1001.Dr. Mabuse the Gambler.Part2.1922.bdrip_[1.46].sub.eng.srt",
       "0014.1001.Dr. Mabuse the Gambler.Part2.1922.bdrip_[1.46].sub.rus.srt",
       "0014.1001.Dr. Mabuse the Gambler.Part2.1922.bdrip_[1.46]_original.ac3"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Dr. Mabuse, the Gambler",
+      "Year": "1922",
+      "Rated": "Not Rated",
+      "Released": "30 Sep 1922",
+      "Runtime": "242 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fritz Lang",
+      "Writer": "Norbert Jacques, Thea von Harbou, Fritz Lang",
+      "Actors": "Rudolf Klein-Rogge, Aud Egede-Nissen, Gertrude Welcker",
+      "Plot": "Arch-criminal Dr. Mabuse sets out to make a fortune and run Berlin. Detective Wenk sets out to stop him.",
+      "Language": "German, English, French",
+      "Country": "Germany",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzk5MTI1MV5BMl5BanBnXkFtZTgwNDY1MTA5MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "8,704",
+      "imdbID": "tt0013086",
+      "Type": "movie",
+      "DVD": "04 Sep 2001",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "15",
@@ -164,7 +672,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0013427/",
     "Files": [
       "0015.1001.Nanook-Of-The-North.1922.DVDRIP.DIVX-MDX.avi"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Nanook of the North",
+      "Year": "1922",
+      "Rated": "Passed",
+      "Released": "11 Jun 1922",
+      "Runtime": "78 min",
+      "Genre": "Documentary",
+      "Director": "Robert J. Flaherty",
+      "Writer": "Frances H. Flaherty, Robert J. Flaherty",
+      "Actors": "Allakariallak, Alice Nevalinga, Cunayou",
+      "Plot": "In this silent predecessor to the modern documentary, film-maker Robert J. Flaherty spends one year following the lives of Nanook and his family, Inuits living in the Arctic Circle.",
+      "Language": "English",
+      "Country": "France, United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Njk3MjU5Ml5BMl5BanBnXkFtZTgwOTIyODg5MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "12,804",
+      "imdbID": "tt0013427",
+      "Type": "movie",
+      "DVD": "13 Feb 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "16",
@@ -173,7 +717,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0013257/",
     "Files": [
       "0016.1001.Haxan.1922.720p.WEB-DL.H264.RUS.liosaa.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Häxan",
+      "Year": "1922",
+      "Rated": "Not Rated",
+      "Released": "27 May 1929",
+      "Runtime": "91 min",
+      "Genre": "Documentary, Fantasy, Horror",
+      "Director": "Benjamin Christensen",
+      "Writer": "Benjamin Christensen",
+      "Actors": "Benjamin Christensen, Elisabeth Christensen, Maren Pedersen",
+      "Plot": "Fictionalized documentary showing the evolution of witchcraft, from its pagan roots to its confusion with hysteria in Eastern Europe.",
+      "Language": "Swedish, Danish",
+      "Country": "Sweden, Denmark",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJjOWY1NDUtZGEyZC00Y2VmLWIzZWUtZDRmODYwYmQzN2VmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "15,368",
+      "imdbID": "tt0013257",
+      "Type": "movie",
+      "DVD": "16 Oct 2001",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "17",
@@ -182,7 +762,39 @@
     "imdbURL": "https://www.imdb.com/title/tt1764657/",
     "Files": [
       "0017.1001.the-great-white-silence-1924-colorized-movie-720p-hd_meta.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Great White Silence",
+      "Year": "1922",
+      "Rated": "N/A",
+      "Released": "01 May 1924",
+      "Runtime": "80 min",
+      "Genre": "Documentary",
+      "Director": "Herbert G. Ponting",
+      "Writer": "N/A",
+      "Actors": "Robert Falcon Scott, Herbert G. Ponting, Henry R. Bowers",
+      "Plot": "In 1910 the British Antarctic Expedition, led by Capt. Robert F. Scott, embarks from Lyttleton, NZ on a quest to become the first to reach the South Pole.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjIzYTlhN2QtZGE2ZS00NDU4LTk5M2ItOGQ5ZGE3MWQyYjgwXkEyXkFqcGdeQXVyNTAzNTYzMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "1,448",
+      "imdbID": "tt1764657",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "18",
@@ -194,7 +806,43 @@
       "0018.1001.La Roue 1923 Abel Gance_2.avi",
       "0018.1001.La Roue 1923 Abel Gance_1.srt",
       "0018.1001.La Roue 1923 Abel Gance_2.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Wheel",
+      "Year": "1923",
+      "Rated": "Not Rated",
+      "Released": "17 Feb 1923",
+      "Runtime": "417 min",
+      "Genre": "Drama",
+      "Director": "Abel Gance",
+      "Writer": "Abel Gance",
+      "Actors": "Gabriel de Gravone, Pierre Magnier, Georges Térof",
+      "Plot": "A railway engineer adopts a young girl orphaned by a train crash. Years later when she starts getting suitors, he grapples with whether or not to tell her the truth about her parentage.",
+      "Language": "None, French, English",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzODE4NTg5MF5BMl5BanBnXkFtZTcwODIzMzg2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,387",
+      "imdbID": "tt0014417",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "19",
@@ -203,7 +851,39 @@
     "imdbURL": "https://www.imdb.com/title/tt0013626/",
     "Files": [
       "0019.1001.The.Smiling.Madame.Beudet.1923.BDRip.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "La souriante Madame Beudet",
+      "Year": "1923",
+      "Rated": "N/A",
+      "Released": "09 Nov 1923",
+      "Runtime": "26 min",
+      "Genre": "Short, Drama",
+      "Director": "Germaine Dulac",
+      "Writer": "Denys Amiel, André Obey, Germaine Dulac",
+      "Actors": "Germaine Dermoz, Madeleine Guitty, Jean d'Yd",
+      "Plot": "An unhappily married woman devises a scheme to get rid of her husband.",
+      "Language": "None",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTlkZjU4MWItYjIwMy00ZTJjLThhN2YtNDAzZTU2NGQzYTUwXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "2,699",
+      "imdbID": "tt0013626",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "20",
@@ -213,7 +893,43 @@
     "Files": [
       "0020.1001.Our Hospitality Keaton and Blystone 1923 High Quality 1080p-db1IzURNfrM.ia.mp4",
       "0020.1001.our-hospitality-keaton-and-blystone-1923-high-quality-1080p-db-1-iz-urnfr-m_meta.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Our Hospitality",
+      "Year": "1923",
+      "Rated": "Passed",
+      "Released": "13 Dec 1923",
+      "Runtime": "65 min",
+      "Genre": "Comedy, Romance, Thriller",
+      "Director": "John G. Blystone, Buster Keaton",
+      "Writer": "Jean C. Havez, Clyde Bruckman, Joseph A. Mitchell",
+      "Actors": "Buster Keaton, Natalie Talmadge, Joe Keaton",
+      "Plot": "A man returns to his Appalachian homestead. On the trip, he falls for a young woman. The only problem is her family has vowed to kill every member of his family.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNjZjYxMDQtMTViNi00NTg0LWFmZTYtNTdiMzUxZWU3ZTU2XkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "11,699",
+      "imdbID": "tt0014341",
+      "Type": "movie",
+      "DVD": "11 Dec 2012",
+      "BoxOffice": "$1,172,499",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "21",
@@ -223,7 +939,43 @@
     "Files": [
       "0021.1001.The thief of bagdad 1924 vose.mp4",
       "0021.1001.the-thief-of-bagdad-1924-vose_meta.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Thief of Bagdad",
+      "Year": "1924",
+      "Rated": "Not Rated",
+      "Released": "11 Apr 1924",
+      "Runtime": "155 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Raoul Walsh",
+      "Writer": "Lotta Woods, Douglas Fairbanks, Achmed Abdullah",
+      "Actors": "Douglas Fairbanks, Julanne Johnston, Snitz Edwards",
+      "Plot": "A recalcitrant thief vies with a duplicitous Mongol ruler for the hand of a beautiful princess.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM0MjdkMDQtMDMwMy00ZjE4LThjMDUtNjA4ZjkxYzM0MWRjXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "6,540",
+      "imdbID": "tt0015400",
+      "Type": "movie",
+      "DVD": "18 Mar 2003",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "22",
@@ -236,7 +988,43 @@
       "0022.1001.Шерлок младший (1924) HDRip — FilmRus English [Commentary by Film Historian David Kalat].ac3",
       "0022.1001.Шерлок младший (1924) HDRip — FilmRus [Vintage music score synchronized by Jay Ward].ac3",
       "0022.1001.Шерлок младший (1924) HDRip — FilmRus.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Sherlock Jr.",
+      "Year": "1924",
+      "Rated": "Passed",
+      "Released": "11 May 1924",
+      "Runtime": "45 min",
+      "Genre": "Action, Comedy, Romance",
+      "Director": "Buster Keaton",
+      "Writer": "Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman",
+      "Actors": "Buster Keaton, Kathryn McGuire, Joe Keaton",
+      "Plot": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "51,823",
+      "imdbID": "tt0015324",
+      "Type": "movie",
+      "DVD": "11 Dec 2012",
+      "BoxOffice": "$977,375",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "23",
@@ -245,7 +1033,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0015881/",
     "Files": [
       "0023.1001.Greed_1924.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Greed",
+      "Year": "1924",
+      "Rated": "Not Rated",
+      "Released": "26 Jan 1925",
+      "Runtime": "140 min",
+      "Genre": "Drama, Thriller, Western",
+      "Director": "Erich von Stroheim",
+      "Writer": "June Mathis, Erich von Stroheim, Frank Norris",
+      "Actors": "Gibson Gowland, Zasu Pitts, Jean Hersholt",
+      "Plot": "The sudden fortune won from a lottery fans such destructive greed that it ruins the lives of the three people involved.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFhZWQ1MjgtYTNmNy00ZjdhLWEwZDctMzJkYzE5YTQwNjIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "10,310",
+      "imdbID": "tt0015881",
+      "Type": "movie",
+      "DVD": "01 Jan 2009",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "24",
@@ -260,7 +1084,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0016220/",
     "Files": [
       "0025.1001.The.Phantom.Of.The.Opera.1925.(1929).BDRip.x264.RUS.liosaa.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Phantom of the Opera",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "15 Nov 1925",
+      "Runtime": "93 min",
+      "Genre": "Horror",
+      "Director": "Rupert Julian, Lon Chaney, Ernst Laemmle",
+      "Writer": "Gaston Leroux, Walter Anthony, Elliott J. Clawson",
+      "Actors": "Lon Chaney, Mary Philbin, Norman Kerry",
+      "Plot": "A mad, disfigured composer seeks love with a lovely young opera singer.",
+      "Language": "N/A",
+      "Country": "United States",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk4MDM1NTI5MV5BMl5BanBnXkFtZTgwMDkyMDc2MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "19,075",
+      "imdbID": "tt0016220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,751,476",
+      "Production": "Hammer Films",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "26",
@@ -269,7 +1129,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0016332/",
     "Files": [
       "0026.1001.Seven.Chances.1925.720p.BluRay.DTS.HDCLUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Seven Chances",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "15 Mar 1925",
+      "Runtime": "56 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Buster Keaton",
+      "Writer": "Roi Cooper Megrue, Clyde Bruckman, Jean C. Havez",
+      "Actors": "Buster Keaton, Ruth Dwyer, T. Roy Barnes",
+      "Plot": "A man learns that he will inherit a fortune if he marries by 7PM that evening.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MjM4NTItMTQ0Mi00OWFiLTk3NDMtYTM2MzBlNDdjOWYxXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "10,865",
+      "imdbID": "tt0016332",
+      "Type": "movie",
+      "DVD": "11 Jun 2007",
+      "BoxOffice": "$210,748",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "27",
@@ -279,7 +1175,43 @@
     "Files": [
       "0027.1001.Strike.Стачка.avi",
       "0027.1001.Strike.Стачка.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Stachka",
+      "Year": "1925",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "82 min",
+      "Genre": "Drama",
+      "Director": "Sergei Eisenstein",
+      "Writer": "Grigoriy Aleksandrov, Sergei Eisenstein, Ilya Kravchunovsky",
+      "Actors": "Grigoriy Aleksandrov, Maksim Shtraukh, Mikhail Gomorov",
+      "Plot": "A group of oppressed factory workers go on strike in pre-revolutionary Russia.",
+      "Language": "None",
+      "Country": "Soviet Union",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRmZjY3MTQtMTBmYS00MDJlLWJmMWUtZjE0YWMxNTVkMTNkXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "8,279",
+      "imdbID": "tt0015361",
+      "Type": "movie",
+      "DVD": "25 Jul 2000",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "28",
@@ -288,7 +1220,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0015864/",
     "Files": [
       "0028.1001.The Gold Rush.BDRip.(1080p).mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Gold Rush",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "13 Jul 1925",
+      "Runtime": "95 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Charles Chaplin",
+      "Writer": "Charles Chaplin",
+      "Actors": "Charles Chaplin, Mack Swain, Tom Murray",
+      "Plot": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 3 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "113,217",
+      "imdbID": "tt0015864",
+      "Type": "movie",
+      "DVD": "12 Jun 2012",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "29",
@@ -300,7 +1268,43 @@
       "0029.1001.The Big Parade (1925) BDRip p2.avi",
       "0029.1001.The Big Parade (1925) BDRip p1.srt",
       "0029.1001.The Big Parade (1925) BDRip p2.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Big Parade",
+      "Year": "1925",
+      "Rated": "Not Rated",
+      "Released": "03 Dec 1925",
+      "Runtime": "151 min",
+      "Genre": "Drama, Romance, War",
+      "Director": "King Vidor, George W. Hill",
+      "Writer": "Laurence Stallings, Harry Behn, Joseph Farnham",
+      "Actors": "John Gilbert, Renée Adorée, Hobart Bosworth",
+      "Plot": "A young American soldier witnesses the horrors of the Great War.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY2MTA1MjExNV5BMl5BanBnXkFtZTgwNzQ2ODAyMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "6,960",
+      "imdbID": "tt0015624",
+      "Type": "movie",
+      "DVD": "01 Oct 2013",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "30",
@@ -309,7 +1313,39 @@
     "imdbURL": "https://www.imdb.com/title/tt0015772/",
     "Files": [
       "0030.1001.The.Eagle.1925.(SubRus)_bankolya.fenixclub.avi"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Eagle",
+      "Year": "1925",
+      "Rated": "Unrated",
+      "Released": "08 Nov 1925",
+      "Runtime": "73 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Clarence Brown",
+      "Writer": "Alexander Pushkin, George Marion Jr., Hanns Kräly",
+      "Actors": "Rudolph Valentino, Vilma Bánky, Louise Dresser",
+      "Plot": "A wanted Russian lieutenant becomes a masked vigilante seeking vengeance upon the man who stole his family's land, only to fall for his charming daughter.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI0MzFhY2UtMDNlMy00N2EwLTkwYjktZTVjNmI4MmYyZGE1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "2,138",
+      "imdbID": "tt0015772",
+      "Type": "movie",
+      "DVD": "01 Jan 2012",
+      "BoxOffice": "$323,150",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "31",
@@ -318,7 +1354,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0015648/",
     "Files": [
       "0031.1001.Bronenosets.Potyomkin.1925.BDRip-AVC.Meizel.Shostakovich.Subs.mkvd"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Battleship Potemkin",
+      "Year": "1925",
+      "Rated": "Not Rated",
+      "Released": "24 Dec 1925",
+      "Runtime": "66 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "Sergei Eisenstein",
+      "Writer": "Nina Agadzhanova, Sergei Eisenstein, Grigoriy Aleksandrov",
+      "Actors": "Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov",
+      "Plot": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
+      "Language": "None, Russian, English",
+      "Country": "Soviet Union",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJiN2RkODUtNTIxNC00N2Y4LTgxOWQtODIwYjU2MzRhZTAxXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "7.9",
+      "imdbVotes": "59,283",
+      "imdbID": "tt0015648",
+      "Type": "movie",
+      "DVD": "04 Nov 2003",
+      "BoxOffice": "$51,198",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "32",
@@ -327,7 +1403,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0015532/",
     "Files": [
       "0032.1001.The.Adventures.of.Prince.Achmed.1926.BDRip.720p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Adventures of Prince Achmed",
+      "Year": "1926",
+      "Rated": "Not Rated",
+      "Released": "20 Jun 1929",
+      "Runtime": "80 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Lotte Reiniger, Carl Koch",
+      "Writer": "Lotte Reiniger",
+      "Actors": "N/A",
+      "Plot": "A handsome prince rides a flying horse to faraway lands and embarks on magical adventures, which include befriending a witch, meeting Aladdin, battling demons and falling in love with a princess.",
+      "Language": "None",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQyN2Y1NWEtNTk3ZS00YjU3LThkOGItNDQ0NmEwZmFkYzVjXkEyXkFqcGdeQXVyNTAzNTYzMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "6,486",
+      "imdbID": "tt0015532",
+      "Type": "movie",
+      "DVD": "03 Dec 2002",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "33",
@@ -336,7 +1448,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0017925/",
     "Files": [
       "0033.1001.The.General.1926.BDRip.1080p.x264.SUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The General",
+      "Year": "1926",
+      "Rated": "Passed",
+      "Released": "02 Jan 1927",
+      "Runtime": "67 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Clyde Bruckman, Buster Keaton",
+      "Writer": "Buster Keaton, Clyde Bruckman, Al Boasberg",
+      "Actors": "Buster Keaton, Marion Mack, Glen Cavender",
+      "Plot": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "93,302",
+      "imdbID": "tt0017925",
+      "Type": "movie",
+      "DVD": "22 Mar 2007",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "34",
@@ -346,7 +1494,47 @@
     "Files": [
       "0034.1001.Metropolis.1927.BDRip.1080p.mkv",
       "0034.1001.Metropolis.1927.BDRip.1080p.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Metropolis",
+      "Year": "1927",
+      "Rated": "Not Rated",
+      "Released": "13 Mar 1927",
+      "Runtime": "153 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "Fritz Lang",
+      "Writer": "Thea von Harbou, Fritz Lang",
+      "Actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+      "Plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+      "Language": "German, English",
+      "Country": "Germany",
+      "Awards": "6 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.3",
+      "imdbVotes": "176,963",
+      "imdbID": "tt0017136",
+      "Type": "movie",
+      "DVD": "22 Mar 2007",
+      "BoxOffice": "$1,236,166",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "35",
@@ -356,7 +1544,43 @@
     "Files": [
       "0035.1001.The.Kid.Brother.1927.BDRip.avi",
       "0035.1001.The.Kid.Brother.1927.BDRip.rus.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Kid Brother",
+      "Year": "1927",
+      "Rated": "Passed",
+      "Released": "17 Jan 1927",
+      "Runtime": "82 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Ted Wilde, Harold Lloyd, Lewis Milestone",
+      "Writer": "John Grey, Ted Wilde, Thomas J. Crizer",
+      "Actors": "Harold Lloyd, Jobyna Ralston, Walter James",
+      "Plot": "A sheriff's milquetoast son has a chance to prove himself when a medicine show run by con artists comes into town.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzNjY2NjY1Ml5BMl5BanBnXkFtZTgwOTYzODYwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "4,549",
+      "imdbID": "tt0018051",
+      "Type": "movie",
+      "DVD": "18 Nov 2016",
+      "BoxOffice": "$1,553,522",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "36",
@@ -367,7 +1591,43 @@
       "0036.1001.Napoleon.1927.1080p.BluRay.x265-RARBG.mp4",
       "0036.1001.Napoleon.1927.1080p.BluRay.x265-RARBG.srt",
       "0036.1001.Napoleon.1927.1080p.BluRay.x265-RARBG.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Napoleon",
+      "Year": "1927",
+      "Rated": "N/A",
+      "Released": "17 Feb 1929",
+      "Runtime": "330 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Abel Gance",
+      "Writer": "Abel Gance",
+      "Actors": "Albert Dieudonné, Vladimir Roudenko, Edmond Van Daële",
+      "Plot": "A film about the French general's youth and early military career.",
+      "Language": "N/A",
+      "Country": "France",
+      "Awards": "5 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI4MDEzNTktMGU4ZC00YjFiLTg4OWEtNzNkMWVlY2YwOTdjXkEyXkFqcGdeQXVyNjEwMTA0NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "8,081",
+      "imdbID": "tt0018192",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "37",
@@ -377,7 +1637,43 @@
     "Files": [
       "0037.1001.The.Unknown.1927.mkv",
       "0037.1001.The.Unknown.1927.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Unknown",
+      "Year": "1927",
+      "Rated": "Unrated",
+      "Released": "04 Jun 1927",
+      "Runtime": "63 min",
+      "Genre": "Drama, Horror, Romance",
+      "Director": "Tod Browning",
+      "Writer": "Tod Browning, Waldemar Young, Joseph Farnham",
+      "Actors": "Lon Chaney, Norman Kerry, Joan Crawford",
+      "Plot": "A criminal on the run hides in a circus and seeks to possess the daughter of the ringmaster at any cost.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDgzNjQ4Y2MtNDhiOS00NTcwLWIyMzMtYmExYjAzZGM2Yjc0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "8,323",
+      "imdbID": "tt0018528",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "38",
@@ -386,7 +1682,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0018455/",
     "Files": [
       "0038.1001.Sunrise.A.Song.of.Two.Humans.1927.720p.BluRay.HDCLUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Sunrise",
+      "Year": "1927",
+      "Rated": "Passed",
+      "Released": "04 Nov 1927",
+      "Runtime": "94 min",
+      "Genre": "Drama, Romance",
+      "Director": "F.W. Murnau",
+      "Writer": "Carl Mayer, Hermann Sudermann, Katherine Hilliker",
+      "Actors": "George O'Brien, Janet Gaynor, Margaret Livingston",
+      "Plot": "A sophisticated city woman seduces a farmer and convinces him to murder his wife and join her in the city, but he ends up rekindling his romance with his wife when he changes his mind at the last moment.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 9 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.1",
+      "imdbVotes": "52,085",
+      "imdbID": "tt0018455",
+      "Type": "movie",
+      "DVD": "12 Oct 2004",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "39",
@@ -395,7 +1731,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0018037/",
     "Files": [
       "0039.1001.The Jazz Singer 1927 720p BluRay x264 EbP.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Jazz Singer",
+      "Year": "1927",
+      "Rated": "Passed",
+      "Released": "04 Feb 1928",
+      "Runtime": "88 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Alan Crosland",
+      "Writer": "Samson Raphaelson, Alfred A. Cohn, Jack Jarmuth",
+      "Actors": "Al Jolson, May McAvoy, Warner Oland",
+      "Plot": "The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of becoming a jazz singer.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 4 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUxNTk0MjEtZjQ5Yi00ODBhLTlkY2YtMDJhOWZmNDM1YWJkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "6.4",
+      "imdbVotes": "10,493",
+      "imdbID": "tt0018037",
+      "Type": "movie",
+      "DVD": "16 Oct 2007",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "40",
@@ -404,7 +1780,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0018217/",
     "Files": [
       "0040.1001.Октябрь.October.1927.DVDRip.AVC.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "October (Ten Days that Shook the World)",
+      "Year": "1927",
+      "Rated": "N/A",
+      "Released": "24 Sep 1928",
+      "Runtime": "95 min",
+      "Genre": "Drama, History",
+      "Director": "Grigoriy Aleksandrov, Sergei Eisenstein",
+      "Writer": "Sergei Eisenstein, Grigoriy Aleksandrov, John Reed",
+      "Actors": "Boris Livanov, Nikolay Popov, Vasili Nikandrov",
+      "Plot": "A large-scale view on the events of 1917 in Russia, when the monarchy was overthrown.",
+      "Language": "None",
+      "Country": "Soviet Union",
+      "Awards": "2 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTNmNjQxYjgtODNmYi00ZGEzLTk3NmYtNDI2ZDI0ZDI5YzY4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "8,108",
+      "imdbID": "tt0018217",
+      "Type": "movie",
+      "DVD": "05 Jun 2012",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "41",
@@ -413,7 +1825,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0018806/",
     "Files": [
       "0041.1001.The.Crowd.1928.DVDRip-AVC.mp4"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Crowd",
+      "Year": "1928",
+      "Rated": "Not Rated",
+      "Released": "03 Mar 1928",
+      "Runtime": "98 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "King Vidor",
+      "Writer": "King Vidor, John V.A. Weaver, Joseph Farnham",
+      "Actors": "Eleanor Boardman, James Murray, Bert Roach",
+      "Plot": "The life of a man and woman together in a large, impersonal metropolis through their hopes, struggles, and downfalls.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "8,723",
+      "imdbID": "tt0018806",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "42",
@@ -422,7 +1870,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0019421/",
     "Files": [
       "0042.1001.Steamboat.Bill,Jr.1928.720p.BluRay.DTS.AC3.HDCLUB-Skazhutin.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Steamboat Bill, Jr.",
+      "Year": "1928",
+      "Rated": "Not Rated",
+      "Released": "20 May 1928",
+      "Runtime": "70 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Charles Reisner, Buster Keaton",
+      "Writer": "Carl Harbaugh",
+      "Actors": "Buster Keaton, Tom McGuire, Ernest Torrence",
+      "Plot": "The effete son of a cantankerous riverboat captain comes to join his father's crew.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg2MjUyMjYyOV5BMl5BanBnXkFtZTgwNjM0NDAwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "15,246",
+      "imdbID": "tt0019421",
+      "Type": "movie",
+      "DVD": "11 Jun 2007",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "43",
@@ -431,7 +1915,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0019254/",
     "Files": [
       "0043.1001.The.Passion.of.Joan.of.Arc.1928.24fps.Criterion.720p.BluRay.AC3.x264.D-Z0N3.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Passion of Joan of Arc",
+      "Year": "1928",
+      "Rated": "Passed",
+      "Released": "25 Oct 1928",
+      "Runtime": "114 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Carl Theodor Dreyer",
+      "Writer": "Joseph Delteil, Carl Theodor Dreyer",
+      "Actors": "Maria Falconetti, Eugene Silvain, André Berley",
+      "Plot": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+      "Language": "None, French",
+      "Country": "France",
+      "Awards": "5 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "56,638",
+      "imdbID": "tt0019254",
+      "Type": "movie",
+      "DVD": "09 Nov 1999",
+      "BoxOffice": "$21,877",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "44",
@@ -440,7 +1964,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0018839/",
     "Files": [
       "0044.1001.The.Docks.of.New.York.1928.US.Criterion.Collection.BDRemux.1080p-rutracker.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Docks of New York",
+      "Year": "1928",
+      "Rated": "Not Rated",
+      "Released": "29 Sep 1928",
+      "Runtime": "76 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Josef von Sternberg",
+      "Writer": "Jules Furthman, John Monk Saunders, Julian Johnson",
+      "Actors": "George Bancroft, Betty Compson, Olga Baclanova",
+      "Plot": "A blue-collar worker on New York's depressed waterfront finds his life changed after he saves a woman attempting suicide.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FmNTM2NTItYmY4Yi00MjRiLThkMGUtNzRhODIzNjVjNDgwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "4,748",
+      "imdbID": "tt0018839",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "45",
@@ -449,7 +2009,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0019286/",
     "Files": [
       "0045.1001.Storm.Over.Asia.Потомок.Чингис-Хана.Storm.Over.Asia.1928.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Storm Over Asia",
+      "Year": "1928",
+      "Rated": "N/A",
+      "Released": "06 Sep 1930",
+      "Runtime": "74 min",
+      "Genre": "Drama, War",
+      "Director": "Vsevolod Pudovkin",
+      "Writer": "Osip Brik, Ivan Novokshenov",
+      "Actors": "I. Inkizhinov, I. Dedintsev, Valéry Inkijinoff",
+      "Plot": "After a run-in with the law, a Mongolian man becomes a fugitive and joins the Russian Civil War.",
+      "Language": "Russian",
+      "Country": "Soviet Union",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg5ODAwNV5BMl5BanBnXkFtZTgwMzE3ODgwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "2,201",
+      "imdbID": "tt0019286",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "46",
@@ -458,7 +2054,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0019760/",
     "Files": [
       "0046.1001.Man with a Movie Camera.720p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Man with a Movie Camera",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "12 May 1929",
+      "Runtime": "68 min",
+      "Genre": "Documentary, Music",
+      "Director": "Dziga Vertov",
+      "Writer": "Dziga Vertov",
+      "Actors": "Mikhail Kaufman, Elizaveta Svilova",
+      "Plot": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+      "Language": "None",
+      "Country": "Soviet Union",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc3NGVlN2QtYWJlZi00YjhjLThiZjctZDA1MmE1NGI4ZmE4XkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "8.4",
+      "imdbVotes": "26,379",
+      "imdbID": "tt0019760",
+      "Type": "movie",
+      "DVD": "16 Feb 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "47",
@@ -470,7 +2106,43 @@
       "0047.1001.Pandora’s.Box.1929.dvdrip_[2.18]_Stephan.Oliva.ac3",
       "0047.1001.Pandora’s.Box.1929.dvdrip_[2.18].sub.rus.srt",
       "0047.1001.Pandora’s.Box.1929.dvdrip_[2.18].sub.eng.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Pandora's Box",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "22 Feb 1930",
+      "Runtime": "109 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Georg Wilhelm Pabst",
+      "Writer": "Frank Wedekind, Ladislaus Vajda, Joseph Fleisler",
+      "Actors": "Louise Brooks, Fritz Kortner, Francis Lederer",
+      "Plot": "The rise and inevitable fall of an amoral but naive young woman whose insouciant eroticism inspires lust and violence in those around her.",
+      "Language": "None, German",
+      "Country": "Germany",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk5NzFlYWItNTk0NS00MTJhLTliNTItYjU2OTBjYzFhMjYyXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "11,241",
+      "imdbID": "tt0018737",
+      "Type": "movie",
+      "DVD": "01 Apr 2014",
+      "BoxOffice": "$53,485",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "48",
@@ -479,7 +2151,39 @@
     "imdbURL": "https://www.imdb.com/title/tt0020530/",
     "Files": [
       "0048.1001.Un.chien.andalou.1929.BFI.720p.BDRip.7xAudiotracks.Sub-7ime7raveller.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Un chien andalou",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "06 Jun 1929",
+      "Runtime": "16 min",
+      "Genre": "Short, Fantasy, Horror",
+      "Director": "Luis Buñuel",
+      "Writer": "Salvador Dalí, Luis Buñuel",
+      "Actors": "Pierre Batcheff, Simone Mareuil, Luis Buñuel",
+      "Plot": "Luis Buñuel and Salvador Dalí present 16 minutes of bizarre, surreal imagery.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZlY2RjM2ItZGEwOC00ODQwLWFhZDYtMjE3ODMyYWNiOWNlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "51,369",
+      "imdbID": "tt0020530",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "49",
@@ -490,7 +2194,43 @@
       "0049.1001.Blackmail 1929 talkie version DVDRip.avi",
       "0049.1001.Blackmail 1929 talkie version DVDRip eng sub.srt",
       "0049.1001.Blackmail 1929 talkie version DVDRip.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Blackmail",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "06 Oct 1929",
+      "Runtime": "85 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Charles Bennett, Alfred Hitchcock, Benn W. Levy",
+      "Actors": "Anny Ondra, John Longden, Sara Allgood",
+      "Plot": "After killing a man in self-defense, a young woman is blackmailed by a witness to the killing.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNhMzc3ZWMtMjc5ZS00YWM4LTgzYTctYjgxOGY5YTdjZjYzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "11,236",
+      "imdbID": "tt0019702",
+      "Type": "movie",
+      "DVD": "18 Jul 2000",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "50",
@@ -500,7 +2240,43 @@
     "Files": [
       "0050.1001.Throw of Dice.mp4",
       "0050.1001.throwofdice_meta.xml"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "A Throw of Dice",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "04 Jan 1930",
+      "Runtime": "74 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Franz Osten",
+      "Writer": "Niranjan Pal, W.A. Burton, Max Jungk",
+      "Actors": "Seeta Devi, Himanshu Rai, Charu Roy",
+      "Plot": "Two neighboring Indian kingdoms are ruled by cousins - King Ranjit and King Sohat. Unbeknownst to Ranjit, Sohat is plotting to seize control of his kingdom.",
+      "Language": "None, English",
+      "Country": "United Kingdom, India, Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyMjMxNDA1M15BMl5BanBnXkFtZTcwMDQ5MzM2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "930",
+      "imdbID": "tt0020286",
+      "Type": "movie",
+      "DVD": "23 May 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "51",
@@ -509,7 +2285,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0020697/",
     "Files": [
       "0051.1001.der.blaue.engel.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Blue Angel",
+      "Year": "1930",
+      "Rated": "Passed",
+      "Released": "05 Dec 1930",
+      "Runtime": "104 min",
+      "Genre": "Drama, Music",
+      "Director": "Josef von Sternberg",
+      "Writer": "Heinrich Mann, Carl Zuckmayer, Karl Vollmöller",
+      "Actors": "Emil Jannings, Marlene Dietrich, Kurt Gerron",
+      "Plot": "An elderly professor's ordered life spins dangerously out of control when he falls for a nightclub singer.",
+      "Language": "German, English, French",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI4OTkzOWYtZjhiMi00YTYzLThkYWUtMWMwNmQzOTkxOGU3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.7",
+      "imdbVotes": "15,589",
+      "imdbID": "tt0020697",
+      "Type": "movie",
+      "DVD": "06 Mar 2007",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "52",
@@ -520,7 +2336,43 @@
       "0052.1001.Zemlja.Earth.1930.avi",
       "0052.1001.Zemlja.Earth.1930.idx",
       "0052.1001.Zemlja.Earth.1930.srt"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Earth",
+      "Year": "1930",
+      "Rated": "Unrated",
+      "Released": "17 Oct 1930",
+      "Runtime": "75 min",
+      "Genre": "Drama",
+      "Director": "Aleksandr Dovzhenko",
+      "Writer": "Aleksandr Dovzhenko",
+      "Actors": "Stepan Shkurat, Semyon Svashenko, Yuliya Solntseva",
+      "Plot": "In the peaceful countryside, Vassily opposes the rich kulaks over the coming of collective farming.",
+      "Language": "Russian, English",
+      "Country": "Soviet Union",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg4MzU3OTgtZmFkOC00MGRkLTlmZDctYWEwN2JmYWM1YTc4XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "6,036",
+      "imdbID": "tt0021571",
+      "Type": "movie",
+      "DVD": "29 Jan 2002",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "53",
@@ -529,7 +2381,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0020629/",
     "Files": [
       "0053.1001.All Quiet on the Western Front. (1930). 720p-CRiSC..mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "All Quiet on the Western Front",
+      "Year": "1930",
+      "Rated": "Passed",
+      "Released": "24 Aug 1930",
+      "Runtime": "152 min",
+      "Genre": "Drama, War",
+      "Director": "Lewis Milestone",
+      "Writer": "Erich Maria Remarque, Maxwell Anderson, George Abbott",
+      "Actors": "Lew Ayres, Louis Wolheim, John Wray",
+      "Plot": "A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.",
+      "Language": "English, French, German, Latin",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 7 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdlMzRjM2MtNjcxNy00MjgyLTkyZmYtY2ExODM0OTBkMzI0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "8.1",
+      "imdbVotes": "64,988",
+      "imdbID": "tt0020629",
+      "Type": "movie",
+      "DVD": "06 Feb 2007",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "54",
@@ -538,7 +2430,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0021577/",
     "Files": [
       "0054.1001.L'Age.d'Or.1930.BFI.BDRip.720p.Fre.Rus.Eng.Comm.Sub-EbP.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "L'Age d'Or",
+      "Year": "1930",
+      "Rated": "Not Rated",
+      "Released": "01 Nov 1979",
+      "Runtime": "63 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Salvador Dalí, Marquis de Sade",
+      "Actors": "Gaston Modot, Lya Lys, Caridad de Laberdesque",
+      "Plot": "A surrealist tale of a man and a woman who are passionately in love with each other, but their attempts to consummate that passion are constantly thwarted by their families, the Church, and bourgeois society.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ1MWRmODYtZWYyNS00YTE0LWE3OWEtZTkxNzdjNzRjZWNhXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "14,279",
+      "imdbID": "tt0021577",
+      "Type": "movie",
+      "DVD": "11 Feb 2017",
+      "BoxOffice": "$32,712",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "55",
@@ -547,7 +2475,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0021079/",
     "Files": [
       "0055.1001.Little Caesar.HD.m4v"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Little Caesar",
+      "Year": "1931",
+      "Rated": "Not Rated",
+      "Released": "25 Jan 1931",
+      "Runtime": "79 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mervyn LeRoy",
+      "Writer": "W.R. Burnett, Francis Edward Faragoh, Robert N. Lee",
+      "Actors": "Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell",
+      "Plot": "A small-time criminal moves to a big city to seek bigger fortune.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZWI1OGEtMzVlNi00ZGRlLWJkZjEtNGUyM2RmNThiZTEyXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "13,801",
+      "imdbID": "tt0021079",
+      "Type": "movie",
+      "DVD": "25 Jan 2005",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "56",
@@ -556,7 +2520,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0021749/",
     "Files": [
       "0056.1001.City.Lights.1931.720p.Criterion-BluRay.AC3.FLAC.x264-DChighdef.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "City Lights",
+      "Year": "1931",
+      "Rated": "G",
+      "Released": "07 Mar 1931",
+      "Runtime": "87 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Charles Chaplin",
+      "Writer": "Charles Chaplin, Harry Carr, Harry Crocker",
+      "Actors": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+      "Plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "4 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "99/100"
+        }
+      ],
+      "Metascore": "99",
+      "imdbRating": "8.5",
+      "imdbVotes": "187,259",
+      "imdbID": "tt0021749",
+      "Type": "movie",
+      "DVD": "23 Feb 2010",
+      "BoxOffice": "$19,181",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "57",
@@ -565,7 +2569,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0022150/",
     "Files": [
       "0057.1001.Миллион.Le.million.avi"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Le Million",
+      "Year": "1931",
+      "Rated": "Not Rated",
+      "Released": "04 Feb 1931",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Musical",
+      "Director": "René Clair",
+      "Writer": "Georges Berr, Marcel Guillemaud, René Clair",
+      "Actors": "Annabella, René Lefèvre, Jean-Louis Allibert",
+      "Plot": "An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA3NjI3M15BMl5BanBnXkFtZTcwNTA3OTMyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "3,664",
+      "imdbID": "tt0022150",
+      "Type": "movie",
+      "DVD": "16 May 2000",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "58",
@@ -574,7 +2614,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0021814/",
     "Files": [
       "0058.1001.Dracula.720p.1931.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Dracula",
+      "Year": "1931",
+      "Rated": "Passed",
+      "Released": "14 Feb 1931",
+      "Runtime": "75 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Tod Browning, Karl Freund",
+      "Writer": "Bram Stoker, Hamilton Deane, John L. Balderston",
+      "Actors": "Bela Lugosi, Helen Chandler, David Manners",
+      "Plot": "Transylvanian vampire Count Dracula bends a naive real estate agent to his will, then takes up residence at a London estate where he sleeps in his coffin by day and searches for potential victims by night.",
+      "Language": "English, Hungarian, Latin",
+      "Country": "United States",
+      "Awards": "5 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkMzEzN2ItM2EwYy00ZjE4LTg5MDItMzk5YWQ3YTk4ZGU0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.4",
+      "imdbVotes": "54,750",
+      "imdbID": "tt0021814",
+      "Type": "movie",
+      "DVD": "21 Dec 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "59",
@@ -583,7 +2663,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0022458/",
     "Files": [
       "0059.1001.Tabu.A.Story.of.the.South.Seas.1931.720p.BluRay.AC3.FLAC.x264-SbR.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Tabu: A Story of the South Seas",
+      "Year": "1931",
+      "Rated": "TV-PG",
+      "Released": "01 Aug 1931",
+      "Runtime": "86 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "F.W. Murnau",
+      "Writer": "F.W. Murnau, Robert J. Flaherty, Edgar G. Ulmer",
+      "Actors": "Anne Chevalier, Matahi, Hitu",
+      "Plot": "On the South Pacific island of Bora Bora, a young couple's love is threatened when the tribal chief declares the girl a sacred virgin.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 4 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDhmNzg0M2UtZGNkNC00YTQ3LWE0ZjAtMmFjNTI2MmFkZmNiXkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "6,104",
+      "imdbID": "tt0022458",
+      "Type": "movie",
+      "DVD": "03 Sep 2002",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "60",
@@ -592,7 +2708,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0022286/",
     "Files": [
       "0060.1001.Враг.Общества.Public.Enemy.1931.XviD.DVDRip.avi"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Public Enemy",
+      "Year": "1931",
+      "Rated": "Passed",
+      "Released": "15 May 1931",
+      "Runtime": "83 min",
+      "Genre": "Crime, Drama",
+      "Director": "William A. Wellman",
+      "Writer": "Kubec Glasmon, John Bright, Harvey F. Thew",
+      "Actors": "James Cagney, Jean Harlow, Edward Woods",
+      "Plot": "An Irish-American street punk tries to make it big in the world of organized crime.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjMzMDU3NmEtYjA0Zi00MzQ1LWIwMzEtMzVhZjY0MTI4NjcxXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "21,844",
+      "imdbID": "tt0022286",
+      "Type": "movie",
+      "DVD": "19 May 2009",
+      "BoxOffice": "$1,011,520",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "61",
@@ -601,7 +2753,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0022100/",
     "Files": [
       "0061.1001.M.1931.720p.BluRay.x264.Skazhutin.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "M",
+      "Year": "1931",
+      "Rated": "Passed",
+      "Released": "31 Aug 1931",
+      "Runtime": "99 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fritz Lang",
+      "Writer": "Thea von Harbou, Fritz Lang, Egon Jacobsohn",
+      "Actors": "Peter Lorre, Ellen Widmann, Inge Landgut",
+      "Plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "160,831",
+      "imdbID": "tt0022100",
+      "Type": "movie",
+      "DVD": "14 Dec 2004",
+      "BoxOffice": "$35,566",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "62",
@@ -988,7 +3176,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0030341/",
     "Files": [
       "0125.1001.Леди исчезает (1938. The Lady Vanishes).mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Lady Vanishes",
+      "Year": "1938",
+      "Rated": "Not Rated",
+      "Released": "01 Nov 1938",
+      "Runtime": "96 min",
+      "Genre": "Mystery, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Ethel Lina White, Sidney Gilliat, Frank Launder",
+      "Actors": "Margaret Lockwood, Michael Redgrave, Paul Lukas",
+      "Plot": "While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+      "Language": "English, German, French, Italian",
+      "Country": "United Kingdom",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk3YzFjYTktOGY0ZS00Y2EwLTk2NTctYTI1Nzc2OWNiN2I4XkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "7.8",
+      "imdbVotes": "54,377",
+      "imdbID": "tt0030341",
+      "Type": "movie",
+      "DVD": "25 Jul 2000",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "126",
@@ -997,7 +3225,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0029870/",
     "Files": [
       "0126.1001.Ангелы с грязными лицами(Angels with Dirty Faces)(WEB - DL 720 p).mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Angels with Dirty Faces",
+      "Year": "1938",
+      "Rated": "Passed",
+      "Released": "26 Nov 1938",
+      "Runtime": "97 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Michael Curtiz",
+      "Writer": "John Wexley, Warren Duff, Rowland Brown",
+      "Actors": "James Cagney, Pat O'Brien, Humphrey Bogart",
+      "Plot": "A priest tries to stop a gangster from corrupting a group of street kids.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JhZmJmOTQtMjg5Ni00N2M4LTlkNDAtOTc0ZGQ2MTJhNDM4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "22,167",
+      "imdbID": "tt0029870",
+      "Type": "movie",
+      "DVD": "05 Jun 2018",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "127",
@@ -1102,7 +3366,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0032976/",
     "Files": [
       "0143.1001.Rebecca.1940.720p.HDTVRip.Rus.Eng.HDCLUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Rebecca",
+      "Year": "1940",
+      "Rated": "Approved",
+      "Released": "12 Apr 1940",
+      "Runtime": "130 min",
+      "Genre": "Drama, Film-Noir, Mystery",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Daphne Du Maurier, Robert E. Sherwood, Joan Harrison",
+      "Actors": "Laurence Olivier, Joan Fontaine, George Sanders",
+      "Plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 7 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "8.1",
+      "imdbVotes": "139,758",
+      "imdbID": "tt0032976",
+      "Type": "movie",
+      "DVD": "14 Oct 2008",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "144",
@@ -1231,7 +3535,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0034583/",
     "Files": [
       "0164.1001.1942 - Casablanca.1942.720p.BluRay.9xRus.Eng.ac3.flac.-HDCLUB.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Casablanca",
+      "Year": "1942",
+      "Rated": "PG",
+      "Released": "23 Jan 1943",
+      "Runtime": "102 min",
+      "Genre": "Drama, Romance, War",
+      "Director": "Michael Curtiz",
+      "Writer": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
+      "Actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+      "Plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "Language": "English, French, German, Italian",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 13 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.5",
+      "imdbVotes": "579,111",
+      "imdbID": "tt0034583",
+      "Type": "movie",
+      "DVD": "17 Nov 1998",
+      "BoxOffice": "$4,219,709",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "165",
@@ -1378,7 +3722,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0038109/",
     "Files": [
       "0188.1001.Spellbound.1945.1080p.BluRay.x264.3xRus.2xEng.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Spellbound",
+      "Year": "1945",
+      "Rated": "Approved",
+      "Released": "28 Dec 1945",
+      "Runtime": "111 min",
+      "Genre": "Film-Noir, Mystery, Romance",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Ben Hecht, John Palmer, Hilary St George Saunders",
+      "Actors": "Ingrid Bergman, Gregory Peck, Michael Chekhov",
+      "Plot": "A psychiatrist protects the identity of an amnesia patient accused of murder while attempting to recover his memory.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 6 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0ZjdmNjQtNWE0MC00MjVjLTg1MDItYzc5YTE1NGFkNjUzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.5",
+      "imdbVotes": "49,996",
+      "imdbID": "tt0038109",
+      "Type": "movie",
+      "DVD": "03 Aug 2004",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "189",
@@ -1681,7 +4065,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0042876/",
     "Files": [
       "0238.1001.rashomon_kurosawa.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Rashomon",
+      "Year": "1950",
+      "Rated": "Not Rated",
+      "Released": "26 Dec 1951",
+      "Runtime": "88 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Akira Kurosawa",
+      "Writer": "Ryûnosuke Akutagawa, Akira Kurosawa, Shinobu Hashimoto",
+      "Actors": "Toshirô Mifune, Machiko Kyô, Masayuki Mori",
+      "Plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "Nominated for 1 Oscar. 9 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "171,782",
+      "imdbID": "tt0042876",
+      "Type": "movie",
+      "DVD": "02 Apr 2002",
+      "BoxOffice": "$46,808",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "239",
@@ -1732,7 +4156,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0044079/",
     "Files": [
       "0246.1001.Незнакомцы в поезде (1951. Strangers on a Train) 720p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Strangers on a Train",
+      "Year": "1951",
+      "Rated": "PG",
+      "Released": "30 Jun 1951",
+      "Runtime": "101 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Raymond Chandler, Czenzi Ormonde, Whitfield Cook",
+      "Actors": "Farley Granger, Robert Walker, Ruth Roman",
+      "Plot": "A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 3 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJjOGM4NmEtNDE2YS00OGEyLTkwZWItMGM4YzdhZDZhMzNhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "7.9",
+      "imdbVotes": "136,070",
+      "imdbID": "tt0044079",
+      "Type": "movie",
+      "DVD": "06 Jan 1998",
+      "BoxOffice": "$26,597",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "247",
@@ -1945,7 +4409,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0047478/",
     "Files": [
       "0281.1001.Shichinin no samurai (1954) BDRip-HEVC 1080p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Seven Samurai",
+      "Year": "1954",
+      "Rated": "Not Rated",
+      "Released": "19 Nov 1956",
+      "Runtime": "207 min",
+      "Genre": "Action, Drama",
+      "Director": "Akira Kurosawa",
+      "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+      "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
+      "Plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.6",
+      "imdbVotes": "350,558",
+      "imdbID": "tt0047478",
+      "Type": "movie",
+      "DVD": "05 Sep 2006",
+      "BoxOffice": "$318,649",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "282",
@@ -2254,7 +4758,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0050083/",
     "Files": [
       "0332.1001.12 Angry Men (1957).mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "12 Angry Men",
+      "Year": "1957",
+      "Rated": "Approved",
+      "Released": "10 Apr 1957",
+      "Runtime": "96 min",
+      "Genre": "Crime, Drama",
+      "Director": "Sidney Lumet",
+      "Writer": "Reginald Rose",
+      "Actors": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+      "Plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 17 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "9.0",
+      "imdbVotes": "803,154",
+      "imdbID": "tt0050083",
+      "Type": "movie",
+      "DVD": "04 Mar 2008",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "333",
@@ -2335,7 +4879,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0052357/",
     "Files": [
       "0345.1001.Vertigo.1958.x264.1080p.BDRip.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Vertigo",
+      "Year": "1958",
+      "Rated": "PG",
+      "Released": "22 May 1958",
+      "Runtime": "128 min",
+      "Genre": "Mystery, Romance, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Alec Coppel, Samuel A. Taylor, Pierre Boileau",
+      "Actors": "James Stewart, Kim Novak, Barbara Bel Geddes",
+      "Plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 11 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.3",
+      "imdbVotes": "407,861",
+      "imdbID": "tt0052357",
+      "Type": "movie",
+      "DVD": "25 Jan 2001",
+      "BoxOffice": "$7,705,225",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "346",
@@ -2410,7 +4994,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0053291/",
     "Files": [
       "0357.1001.V.dzhaze.tolko.devushki.1959.x264.BDRip(1080p)-Kinozal.TV-HD.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Some Like It Hot",
+      "Year": "1959",
+      "Rated": "Passed",
+      "Released": "19 Mar 1959",
+      "Runtime": "121 min",
+      "Genre": "Comedy, Music, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, I.A.L. Diamond, Robert Thoeren",
+      "Actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon",
+      "Plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 15 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "271,609",
+      "imdbID": "tt0053291",
+      "Type": "movie",
+      "DVD": "18 Jul 2006",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "358",
@@ -2479,7 +5103,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0053779/",
     "Files": [
       "0368.1001.Сладкая жизнь (1960. La Dolce Vita) 720p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "La Dolce Vita",
+      "Year": "1960",
+      "Rated": "Not Rated",
+      "Released": "19 Apr 1961",
+      "Runtime": "174 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Federico Fellini",
+      "Writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+      "Actors": "Marcello Mastroianni, Anita Ekberg, Anouk Aimée",
+      "Plot": "A series of stories following a week in the life of a philandering tabloid journalist living in Rome.",
+      "Language": "Italian, English, French, German",
+      "Country": "Italy, France",
+      "Awards": "Won 1 Oscar. 11 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ0NzY5NGEtYTc5NC00Yjg4LTg4Y2QtZjE2MTkyYTNmNmU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.0",
+      "imdbVotes": "75,009",
+      "imdbID": "tt0053779",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "369",
@@ -2632,7 +5296,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0054698/",
     "Files": [
       "0393.1001.Zavtrak.u.Tiffani.1961.x264.BDRip(1080p)-Kinozal.TV-HD.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Breakfast at Tiffany's",
+      "Year": "1961",
+      "Rated": "Approved",
+      "Released": "06 Oct 1961",
+      "Runtime": "115 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Blake Edwards",
+      "Writer": "Truman Capote, George Axelrod",
+      "Actors": "Audrey Hepburn, George Peppard, Patricia Neal",
+      "Plot": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+      "Language": "English, Portuguese, French, Japanese",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 11 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGEwMTRmZTQtMDY4Ni00MTliLTk5ZmMtOWMxYWMyMTllMDg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.6",
+      "imdbVotes": "184,292",
+      "imdbID": "tt0054698",
+      "Type": "movie",
+      "DVD": "21 Sep 1999",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "394",
@@ -2731,7 +5435,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0056172/",
     "Files": [
       "0409.1001.Lourens.Araviyskiy.1962.MPEG4.HDTVRip.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Lawrence of Arabia",
+      "Year": "1962",
+      "Rated": "Approved",
+      "Released": "11 Dec 1962",
+      "Runtime": "218 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "David Lean",
+      "Writer": "Robert Bolt, Michael Wilson",
+      "Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn",
+      "Plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "Language": "English, Arabic, Turkish",
+      "Country": "United Kingdom",
+      "Awards": "Won 7 Oscars. 31 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.3",
+      "imdbVotes": "298,599",
+      "imdbID": "tt0056172",
+      "Type": "movie",
+      "DVD": "03 Apr 2001",
+      "BoxOffice": "$45,306,425",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "410",
@@ -2872,7 +5616,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0057012/",
     "Files": [
       "0432.1001.Dr. Strangelove.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Year": "1964",
+      "Rated": "PG",
+      "Released": "29 Jan 1964",
+      "Runtime": "95 min",
+      "Genre": "Comedy, War",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick, Terry Southern, Peter George",
+      "Actors": "Peter Sellers, George C. Scott, Sterling Hayden",
+      "Plot": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+      "Language": "English, Russian",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "8.4",
+      "imdbVotes": "497,301",
+      "imdbID": "tt0057012",
+      "Type": "movie",
+      "DVD": "21 Oct 2003",
+      "BoxOffice": "$9,440,272",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "433",
@@ -3637,7 +6417,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0066921/",
     "Files": [
       "0559.1001.A Clockwork Orange 1971 BluRay 1080p DTS.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "A Clockwork Orange",
+      "Year": "1971",
+      "Rated": "X",
+      "Released": "02 Feb 1972",
+      "Runtime": "136 min",
+      "Genre": "Crime, Sci-Fi",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick, Anthony Burgess",
+      "Actors": "Malcolm McDowell, Patrick Magee, Michael Bates",
+      "Plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 4 Oscars. 12 wins & 24 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "8.3",
+      "imdbVotes": "841,833",
+      "imdbID": "tt0066921",
+      "Type": "movie",
+      "DVD": "23 Oct 2007",
+      "BoxOffice": "$26,617,553",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "560",
@@ -3676,7 +6496,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0068646/",
     "Files": [
       "0565.1001.The.Godfather.Part.I.1972.BDRip-AVC.Rus.Eng.by.zOJIOtOi.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Godfather",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "24 Mar 1972",
+      "Runtime": "175 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Mario Puzo, Francis Ford Coppola",
+      "Actors": "Marlon Brando, Al Pacino, James Caan",
+      "Plot": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "Language": "English, Italian, Latin",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 32 wins & 31 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "9.2",
+      "imdbVotes": "1,891,559",
+      "imdbID": "tt0068646",
+      "Type": "movie",
+      "DVD": "11 May 2004",
+      "BoxOffice": "$136,381,073",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "566",
@@ -3829,7 +6689,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0070379/",
     "Files": [
       "0590.1001.Злые улицы (Mean Streets).1973.BDRip.1080p.-CtrlHD.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Mean Streets",
+      "Year": "1973",
+      "Rated": "R",
+      "Released": "14 Oct 1973",
+      "Runtime": "112 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese, Mardik Martin",
+      "Actors": "Robert De Niro, Harvey Keitel, David Proval",
+      "Plot": "A small-time hood tries to keep the peace between his friend Johnny and Johnny's creditors.",
+      "Language": "English, Italian, German",
+      "Country": "United States",
+      "Awards": "5 wins & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNmNGY3ZGMtYWQ3OC00Zjg4LWFiN2EtZjM2MDI1YzRiNjg3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "7.2",
+      "imdbVotes": "112,236",
+      "imdbID": "tt0070379",
+      "Type": "movie",
+      "DVD": "17 Aug 2004",
+      "BoxOffice": "$32,645",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "591",
@@ -3916,7 +6816,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0071315/",
     "Files": [
       "0604.1001.Chinatown.(1974).[1080 p].HDTVRip.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Chinatown",
+      "Year": "1974",
+      "Rated": "R",
+      "Released": "20 Jun 1974",
+      "Runtime": "130 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Roman Polanski",
+      "Writer": "Robert Towne, Roman Polanski",
+      "Actors": "Jack Nicholson, Faye Dunaway, John Huston",
+      "Plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+      "Language": "English, Cantonese, Spanish",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 22 wins & 25 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.2",
+      "imdbVotes": "332,440",
+      "imdbID": "tt0071315",
+      "Type": "movie",
+      "DVD": "23 Nov 1999",
+      "BoxOffice": "$29,200,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "605",
@@ -4153,7 +7093,43 @@
     "imdbURL": "https://www.imdb.com/title/tt0075404/",
     "Files": [
       "0643.1001.Восхождение (1977) BDRip 1080p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Ascent",
+      "Year": "1977",
+      "Rated": "N/A",
+      "Released": "02 Apr 1977",
+      "Runtime": "111 min",
+      "Genre": "Drama, War",
+      "Director": "Larisa Shepitko",
+      "Writer": "Vasiliy Bykov, Yuri Klepikov, Larisa Shepitko",
+      "Actors": "Boris Plotnikov, Vladimir Gostyukhin, Sergey Yakovlev",
+      "Plot": "Two Soviet partisans on a mission to gather food contend with the winter cold, the occupying Germans, and their own psyches.",
+      "Language": "Russian, German",
+      "Country": "Soviet Union",
+      "Awards": "4 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNhYWMyNzgtYWI4MC00NDAxLWJjZmItN2QyZTAwYTNhMTBmXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "9,229",
+      "imdbID": "tt0075404",
+      "Type": "movie",
+      "DVD": "12 Aug 2008",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "644",
@@ -4174,7 +7150,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0076759/",
     "Files": [
       "0646.1001.Zvezdnye voiny Epizod IV Novaya nadezhda 1977 BDRip-AVC by_Dalemake.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "25 May 1977",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+      "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 6 Oscars. 64 wins & 30 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,382,501",
+      "imdbID": "tt0076759",
+      "Type": "movie",
+      "DVD": "06 Dec 2005",
+      "BoxOffice": "$460,998,507",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "647",
@@ -4411,7 +7427,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0080684/",
     "Files": [
       "0685.1001.Zvezdnye voiny Epizod V Imperiya nanosit otvetnyi udar 1980 BDRip-AVC by_Dalemake.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Star Wars: Episode V - The Empire Strikes Back",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "20 Jun 1980",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Irvin Kershner",
+      "Writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+      "Plot": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 26 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "8.7",
+      "imdbVotes": "1,310,371",
+      "imdbID": "tt0080684",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "$292,753,960",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "686",
@@ -4426,7 +7482,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0081505/",
     "Files": [
       "0687.1001.The Shining (1980) BDRip 1080p.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Shining",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "13 Jun 1980",
+      "Runtime": "146 min",
+      "Genre": "Drama, Horror",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stephen King, Stanley Kubrick, Diane Johnson",
+      "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+      "Plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "4 wins & 8 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,038,347",
+      "imdbID": "tt0081505",
+      "Type": "movie",
+      "DVD": "23 Oct 2007",
+      "BoxOffice": "$45,634,352",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "688",
@@ -4687,7 +7783,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0086190/",
     "Files": [
       "0730.1001.Zvezdnye voiny Epizod VI Vozvrazhenie dzhedaya 1983 BDRip-AVC by_Dalemake.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Star Wars: Episode VI - Return of the Jedi",
+      "Year": "1983",
+      "Rated": "PG",
+      "Released": "25 May 1983",
+      "Runtime": "131 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Richard Marquand",
+      "Writer": "Lawrence Kasdan, George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+      "Plot": "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
+      "Language": "English, Kikuyu, Tagalog, Kalmyk-Oirat, Quechua, Polish",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 23 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "8.3",
+      "imdbVotes": "1,068,766",
+      "imdbID": "tt0086190",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "$309,306,177",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "731",
@@ -4852,7 +7988,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0089841/",
     "Files": [
       "0757.1001.Prizzi’s.Honor.1985.720p.HDTV.264.Rus.Eng.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Prizzi's Honor",
+      "Year": "1985",
+      "Rated": "R",
+      "Released": "14 Jun 1985",
+      "Runtime": "130 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "John Huston",
+      "Writer": "Richard Condon, Janet Roach",
+      "Actors": "Jack Nicholson, Kathleen Turner, Robert Loggia",
+      "Plot": "Two professional assassins fall in love.",
+      "Language": "English, Italian",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 27 wins & 24 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmVmOGIzNDUtODYwZi00NWI2LTlhOGQtNmU1ZjU2OGFiOTRlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "6.7",
+      "imdbVotes": "25,319",
+      "imdbID": "tt0089841",
+      "Type": "movie",
+      "DVD": "16 Sep 2003",
+      "BoxOffice": "$26,657,534",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "758",
@@ -5491,7 +8667,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0102926/",
     "Files": [
       "0863.1001.The.Silence.of.the.Lambs.1991.x264.720p.tRuAVC.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Silence of the Lambs",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "14 Feb 1991",
+      "Runtime": "118 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Jonathan Demme",
+      "Writer": "Thomas Harris, Ted Tally",
+      "Actors": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+      "Plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "Language": "English, Latin",
+      "Country": "United States",
+      "Awards": "Won 5 Oscars. 69 wins & 51 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,455,747",
+      "imdbID": "tt0102926",
+      "Type": "movie",
+      "DVD": "21 Aug 2001",
+      "BoxOffice": "$130,742,922",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "864",
@@ -5650,7 +8866,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0103874/",
     "Files": [
       "0889.1001.Dracula.1992.x264.720p.tRuAVC.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Dracula",
+      "Year": "1992",
+      "Rated": "R",
+      "Released": "13 Nov 1992",
+      "Runtime": "128 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Bram Stoker, James V. Hart",
+      "Actors": "Gary Oldman, Winona Ryder, Anthony Hopkins",
+      "Plot": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
+      "Language": "English, Romanian, Greek, Bulgarian, Latin",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 3 Oscars. 24 wins & 25 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "7.4",
+      "imdbVotes": "223,528",
+      "imdbID": "tt0103874",
+      "Type": "movie",
+      "DVD": "11 Dec 2001",
+      "BoxOffice": "$82,522,790",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "890",
@@ -5797,7 +9053,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0110912/",
     "Files": [
       "0913.1001.Криминальное.чтиво.Pulp.Fiction.1994.BDRip-HEVC.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Pulp Fiction",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "154 min",
+      "Genre": "Crime, Drama",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino, Roger Avary",
+      "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+      "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "Language": "English, Spanish, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 70 wins & 75 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.9",
+      "imdbVotes": "2,090,765",
+      "imdbID": "tt0110912",
+      "Type": "movie",
+      "DVD": "20 Aug 2002",
+      "BoxOffice": "$107,928,762",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "914",
@@ -5854,7 +9150,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0111161/",
     "Files": [
       "0922.1001.Shawshank Redemption.1994.BD.Rip.720p.h264.Rus.Eng.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "142 min",
+      "Genre": "Drama",
+      "Director": "Frank Darabont",
+      "Writer": "Stephen King, Frank Darabont",
+      "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+      "Plot": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 7 Oscars. 21 wins & 43 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "9.3",
+      "imdbVotes": "2,718,502",
+      "imdbID": "tt0111161",
+      "Type": "movie",
+      "DVD": "21 Dec 1999",
+      "BoxOffice": "$28,767,189",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "923",
@@ -5935,7 +9271,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0114369/",
     "Files": [
       "0935.1001.Se7en.1995.BDRip-AVC.[Demon2901].mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Se7en",
+      "Year": "1995",
+      "Rated": "R",
+      "Released": "22 Sep 1995",
+      "Runtime": "127 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "David Fincher",
+      "Writer": "Andrew Kevin Walker",
+      "Actors": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+      "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 29 wins & 43 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,679,102",
+      "imdbID": "tt0114369",
+      "Type": "movie",
+      "DVD": "19 Dec 2000",
+      "BoxOffice": "$100,125,643",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "936",
@@ -6304,7 +9680,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0137523/",
     "Files": [
       "0996.1001.Fight.Club.1999.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Fight Club",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "15 Oct 1999",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "David Fincher",
+      "Writer": "Chuck Palahniuk, Jim Uhls",
+      "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+      "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "Language": "English",
+      "Country": "Germany, United States",
+      "Awards": "Nominated for 1 Oscar. 11 wins & 38 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,162,017",
+      "imdbID": "tt0137523",
+      "Type": "movie",
+      "DVD": "14 Oct 2003",
+      "BoxOffice": "$37,030,102",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "997",
@@ -6565,7 +9981,47 @@
     "imdbURL": "https://www.imdb.com/title/tt0317248/",
     "Files": [
       "1039.1001.City.of.God.2002.BDRip.1080p.HDR.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "City of God",
+      "Year": "2002",
+      "Rated": "R",
+      "Released": "13 Feb 2004",
+      "Runtime": "130 min",
+      "Genre": "Crime, Drama",
+      "Director": "Fernando Meirelles, Kátia Lund",
+      "Writer": "Paulo Lins, Bráulio Mantovani",
+      "Actors": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+      "Plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "Language": "Portuguese",
+      "Country": "Brazil, France, Germany",
+      "Awards": "Nominated for 4 Oscars. 74 wins & 50 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "8.6",
+      "imdbVotes": "766,364",
+      "imdbID": "tt0317248",
+      "Type": "movie",
+      "DVD": "08 Jun 2004",
+      "BoxOffice": "$7,564,459",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "1040",
@@ -7030,7 +10486,47 @@
     "imdbURL": "https://www.imdb.com/title/tt1174732/",
     "Files": [
       "1116.1001.Vospitanie.Chuvstv.2009.BDRip.1080p.AC3.DTS.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "An Education",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "05 Feb 2010",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Lone Scherfig",
+      "Writer": "Lynn Barber, Nick Hornby",
+      "Actors": "Carey Mulligan, Peter Sarsgaard, Alfred Molina",
+      "Plot": "A coming-of-age story about a teenage girl in 1960s suburban London, and how her life changes with the arrival of a playboy nearly twice her age.",
+      "Language": "English, French",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 3 Oscars. 36 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjgzOTc0MF5BMl5BanBnXkFtZTcwOTc2OTE3Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.3",
+      "imdbVotes": "135,850",
+      "imdbID": "tt1174732",
+      "Type": "movie",
+      "DVD": "30 Mar 2010",
+      "BoxOffice": "$12,574,914",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "1117",
@@ -7291,7 +10787,47 @@
     "imdbURL": "https://www.imdb.com/title/tt1853728/",
     "Files": [
       "1159.1001.Dzhango.osvobozhdennyj.2012.x264.BDRip.(AVC).fanatus.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Django Unchained",
+      "Year": "2012",
+      "Rated": "R",
+      "Released": "25 Dec 2012",
+      "Runtime": "165 min",
+      "Genre": "Drama, Western",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino",
+      "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+      "Plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "Language": "English, German, French, Italian",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 58 wins & 158 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,584,161",
+      "imdbID": "tt1853728",
+      "Type": "movie",
+      "DVD": "16 Apr 2013",
+      "BoxOffice": "$162,805,434",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "1160",
@@ -7432,7 +10968,47 @@
     "imdbURL": "https://www.imdb.com/title/tt1392190/",
     "Files": [
       "1118.1001.Bezumnyi.Maks.Doroga.Yarosti.2015.DUAL.BluRay.720p.x264.AC3.-HQ-ViDEO.mkv"
-    ]
+    ],
+    "omdbFull": {
+      "Title": "Mad Max: Fury Road",
+      "Year": "2015",
+      "Rated": "R",
+      "Released": "15 May 2015",
+      "Runtime": "120 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "George Miller",
+      "Writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+      "Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+      "Plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+      "Language": "English, Russian",
+      "Country": "Australia",
+      "Awards": "Won 6 Oscars. 247 wins & 234 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.1",
+      "imdbVotes": "1,020,901",
+      "imdbID": "tt1392190",
+      "Type": "movie",
+      "DVD": "01 Sep 2015",
+      "BoxOffice": "$154,109,060",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "index": "1183",
@@ -7811,5 +11387,8 @@
     "Title": "Ma Rainey’s Black Bottom",
     "imdbID": "tt10514222",
     "imdbURL": "https://www.imdb.com/title/tt10514222/"
+  },
+  {
+    "Downloaded": "95"
   }
 ]
